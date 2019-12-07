@@ -1,0 +1,9 @@
+Package: com.yourcompany.pythonfortheos
+Name: PythonForTheos
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: p_x9
+Author: p_x9
+Section: Tweaks
